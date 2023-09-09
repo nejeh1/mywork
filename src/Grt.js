@@ -9,4 +9,4 @@ function Grt() {
    }
 
 
-   export default App;
+   export default Grt;
